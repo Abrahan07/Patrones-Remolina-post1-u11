@@ -52,7 +52,7 @@ Acceder en `http://localhost:9000` con credenciales `admin / admin`.
 ## Cómo ejecutar el análisis SonarQube
 
 ```bash
-mvn clean verify sonar:sonar -Dsonar.token=TU_TOKEN
+mvn clean verify sonar:sonar -Dsonar.token=sqa_d356489b2b0a6c54d7689ea9de61f3f98e2a05bd
 ```
 
 Ver resultados en:
